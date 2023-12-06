@@ -1,4 +1,5 @@
 # Sales-Data Analysis
+# Introduction
 This project was done using Excel during my Excel class with Dahel Techies. 
 # Data Collection
 This data was given to me to work on in my data analysis class with Dahel Techies
